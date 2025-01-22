@@ -25,7 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+## this is an example of headers
+- this is an example of bulleted list
+1. this is an example of
+2. numbered list
+   
+``this is an example of `code` 
+``
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
